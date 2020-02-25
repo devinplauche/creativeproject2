@@ -64,6 +64,11 @@ body {
 th {
   font-size: 15px;
 }
+footer {
+  width: 100%;
+  background-color: yellow;
+  text-align: center;
+}
 td {
   font-size: 20px !important;
 }
